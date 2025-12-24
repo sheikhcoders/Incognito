@@ -1,1 +1,1 @@
-# Incognito
+# Incognito - A foundation AI model optimized for elite-level coding, autonomous agent execution, and real-world computer use. Designed to plan, reason, debug, and operate complex systems with minimal supervision.
